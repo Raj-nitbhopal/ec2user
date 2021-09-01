@@ -7,3 +7,6 @@ useradd : it is used for add new user
 syntax: useradd user_name
 passwd : it is used for set password for added user
 syntax: passwd user_name 
+Git Command
+git log- to see all commit
+git status - To see the unstaged/staged file
