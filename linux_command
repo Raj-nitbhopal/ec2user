@@ -10,3 +10,4 @@ syntax: passwd user_name
 Git Command
 git log- to see all commit
 git status - To see the unstaged/staged file
+git push - to push local repo on remote repo
