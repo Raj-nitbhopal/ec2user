@@ -3,6 +3,9 @@ mkdir : it is used for create a directory
 cp : this command used for cp file in directory from one file to another file
 mv : this command used for move file from one directory to another directory
 man : it is shows the manual of linux command
+
+git: is version control system which maintain our software version 
+
 useradd : it is used for add new user
 syntax: useradd user_name
 passwd : it is used for set password for added user
@@ -11,3 +14,4 @@ Git Command
 git log- to see all commit
 git status - To see the unstaged/staged file
 git push - to push local repo on remote repo
+
